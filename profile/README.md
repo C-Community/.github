@@ -1,13 +1,13 @@
 # C Community
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Mission](#mission)
-3. [Projects](#projects)
-4. [Getting Involved](#getting-involved)
-5. [Code of Conduct](#code-of-conduct)
-6. [Contributing](#contributing)
-7. [Communication Channels](#communication-channels)
+1. [Rules](#rules)
+2. [Introduction](#introduction)
+3. [Mission](#mission)
+4. [Projects](#projects)
+5. [Getting Involved](#getting-involved)
+6. [Code of Conduct](#code-of-conduct)
+7. [Contributing](#contributing)
 8. [License](#license)
 
 ## Introduction
@@ -44,6 +44,9 @@ We are always looking for contributors! If you're interested in contributing, pl
 - Documentation
 - Design
 - Testing
+
+
+# Rules
 
 ## License
 All projects and contributions are licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). By contributing, you agree that your contributions will be licensed under the GNU GPL v3.0.
